@@ -1,1 +1,7 @@
-con lua
+git init -b main
+
+git add -A
+git commit -m "First commit"
+git remote add origin https://github.com/ng2huy/project1.git
+git remote -v
+git push origin main
